@@ -1,69 +1,77 @@
-# 👩‍💻 Keerthi Kandula — QA Engineer Portfolio
+# ✈️ Keerthi Kandula — Airline & Aviation Fresher Portfolio
 
-Welcome to my personal portfolio repository! I am **Keerthi Kandula**, an aspiring **QA Engineer / Software Tester** with hands-on experience in manual testing, API testing, Selenium automation, SQL, Java, Postman, Newman, and Agile/Scrum practices.
+Welcome to my personal portfolio! I am **Keerthi Kandula**, an MCA graduate seeking an entry-level opportunity in the **airline and aviation industry**. I am interested in ground staff, passenger service, airport customer service, check-in and boarding assistance, and other suitable airport service roles.
 
-## 🎯 About Me
+🔗 **Live Portfolio:** https://keerthikandula02.github.io/
 
-I am passionate about software quality and enjoy finding defects, validating application behavior, designing test scenarios, and improving product reliability. I am currently building practical QA projects that demonstrate both **manual testing knowledge and test automation skills**.
+## 👋 About Me
 
-### 💼 QA Skills
+I am an enthusiastic fresher looking to begin my career in aviation. I value courteous communication, teamwork, attention to detail, a helpful attitude, and a willingness to learn. I am keen to learn employer-specific procedures and contribute to a positive passenger experience and smooth airport services.
 
-- Manual Testing & Functional Testing
-- Test Case Design & Test Execution
-- Smoke, Sanity, Regression & Retesting
-- Positive & Negative Testing
-- Defect Reporting & Bug Life Cycle
-- REST API Testing with Postman
-- API Automation with JavaScript assertions
-- Newman CLI & GitHub Actions
-- Selenium WebDriver
-- Java Basics & OOP
-- XPath & Web Elements
-- Page Object Model (POM)
-- Implicit & Explicit Waits
-- SQL — SELECT, JOIN, GROUP BY, HAVING
-- SDLC & STLC
-- Agile / Scrum
-- Cucumber BDD Basics
+## 🧭 Airline-Related Skills
 
-## 🚀 Featured Projects
+- **Passenger & Customer Service:** Passenger assistance, customer handling, responding to enquiries, and service orientation
+- **Communication & Etiquette:** Verbal communication, active listening, interpersonal skills, and professional etiquette
+- **Airport Operations Awareness:** Interest in check-in assistance, boarding support, passenger flow, baggage coordination, and ground operations
+- **Teamwork & Coordination:** Team collaboration, task coordination, following instructions, and supporting daily operations
+- **Professional Skills:** Time management, adaptability, problem-solving, patience, attention to detail, and quick learning
+- **Workplace Readiness:** Basic computer skills, documentation, email communication, and familiarity with digital tools
+- **Training & Flexibility:** Willingness to learn role-specific procedures and discuss shift/weekend availability according to the role
 
-### 1. REST API Testing using Postman
+*These are areas of interest and transferable skills; I am a fresher and do not claim professional airline or airport operations experience.*
 
-A practical REST API testing project covering CRUD operations, positive and negative scenarios, JavaScript assertions, response validation, environment variables, test documentation, Newman execution, and GitHub Actions CI.
+## 🎯 Career Interests
 
-**Tools:** Postman • REST APIs • JavaScript • Newman • GitHub Actions
+I welcome consideration for suitable entry-level vacancies such as:
 
-🔗 [View Project](https://github.com/keerthikandula02/REST-API-Testing-Postman)
+1. **Airport Ground Staff**
+2. **Passenger Service Associate**
+3. **Airport Customer Service**
+4. **Check-in / Boarding Assistance**
+5. **Airport Operations Support**
+6. **Airport Service Trainee**
+7. **Airline Customer Support**
 
-### 2. Automatic Number Plate Detection System
-
-Academic project focused on automatic vehicle number plate detection using computer vision techniques.
-
-### 3. Selenium Python Automation Framework
-
-Automation project demonstrating browser automation and structured test execution using Selenium with Python.
+I understand that each employer may have specific eligibility requirements, training, and selection procedures. I am happy to review these requirements for each vacancy.
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)** — KL University, 2023–2025 | CGPA: 8.6/10
-- **B.Sc. Computers** — Kakatiya Degree College, 2020–2023 | CGPA: 7.9/10
+- **Master of Computer Applications (MCA)** — KL University, 2023–2025 | **CGPA: 8.6/10**
+- **B.Sc. Computers** — Kakatiya Degree College, 2020–2023 | **CGPA: 7.9/10**
+- **Intermediate (MPC)** — Triveni Junior College, 2018–2020 | **CGPA: 9.1/10**
+- **Secondary School** — Siddhartha E.M. High School, 2017–2018 | **CGPA: 9.0/10**
 
 ## 💼 Internship
 
 **Full Stack Web Development Intern — Innovate**  
 Remote | June 2024 – July 2024
 
-## 🌐 Connect With Me
+- Worked on assigned development tasks and supported application debugging in a structured project environment.
+- Developed transferable strengths in attention to detail, task coordination, problem-solving, and digital tools.
 
-- **GitHub:** https://github.com/keerthikandula02
+## 📜 Certifications
+
+- Python Essentials — Cisco Networking Academy
+- Structured Query Language (SQL) — Coursera
+
+## 🗣️ Languages
+
+- English
+- Telugu
+- Hindi
+
+## 🤝 Connect With Me
+
+- **Email:** keerthikandula12@gmail.com
+- **Phone:** +91 9550168915
 - **LinkedIn:** https://linkedin.com/in/keerthi-kandula-13b661254
+- **GitHub:** https://github.com/keerthikandula02
 - **Portfolio:** https://keerthikandula02.github.io/
 
 ## 📌 Career Objective
 
-To start my career as a **QA Engineer / Software Tester**, contribute to delivering reliable and high-quality software, and continuously grow in **test automation and API automation**.
+To begin my professional journey in the airline and aviation industry, learn service and operational procedures, support passengers courteously, and contribute positively to a team in a suitable entry-level role.
 
 ---
 
-⭐ Thanks for visiting my portfolio repository!
+Thank you for visiting my portfolio. I welcome opportunities that match my qualifications and fresher status.
